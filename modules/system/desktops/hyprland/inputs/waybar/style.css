@@ -1,0 +1,12 @@
+@import "colors.css";
+
+* {
+  all: unset;
+  font-family: "Google Sans Flex", "JetBrainsMono Nerd Font Propo", "Noto Sans CJK JP", "Noto Sans CJK KR";
+}
+
+.modules-center {
+  background-color: @bg1;
+  padding: 2px 8px;
+  border-radius: 99px;
+}

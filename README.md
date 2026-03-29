@@ -1,0 +1,14 @@
+hyprland.conf dependencies
+  - alacritty
+  - waybar
+  - wofi
+  - dolphin
+  - hyprpaper
+  - cursor-clip
+  - zen
+  - ungoogled-chromium
+  - swaync
+  - grim, slurp
+  - wl-clipboard
+  - imagemagick
+  - pavuctrl
